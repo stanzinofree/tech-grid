@@ -6,7 +6,7 @@
       </template>
       <template v-slot:content>
         <p class="text-4xl md:text-6xl">
-          Study -> Write -> Debug -> StackOverflow -> Start Again! 
+          Write -> Debug -> StackOverflow -> Start Again! 
         </p>
         <p class="text-lg md:text-2xl">
           Fare errori è un ciclo infinito che ci insegna a farne sempre di peggio con l'aiuto di altri che ne sanno meno di noi!!!

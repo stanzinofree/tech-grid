@@ -17,7 +17,7 @@
           Open Source
         </div>
         <div class="w-full text-2xl">
-          Usiamo solo componenti Open Source!!!!!
+          Su StanzinoTech ci sono solo componenti Open Source!!!!!
         </div>
       </div>
       <div class="flex flex-wrap mt-6">
