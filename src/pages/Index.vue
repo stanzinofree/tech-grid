@@ -5,7 +5,7 @@
         <g-image src="~/assets/images/marvin-meyer-SYTO3xs06fU-unsplash.jpg" />
       </template>
       <template v-slot:content>
-        <p class="text-3xl md:text-4xl">
+        <p class="text-4xl md:text-5xl">
           Write->Debug->StackOverflow->Start Again! 
         </p>
         <p class="text-lg md:text-2xl">

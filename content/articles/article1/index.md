@@ -49,6 +49,10 @@ E quindi digitare i seguenti comandi per avviare il webserver sulla porta 3000
 node server
 ```
 
+Il risultato è il seguente:
+
+![fastify_code](/static/12624DFD-DF1C-40F2-B8DC-DCAAF195D6F0.jpg)
+
 Nei prossimi giorni vediamo come scrivere qualche API che sfrutti a pieno le fuzionalità di Fastify anche in relazione ad Express.
 
 *Stay Tuned*
