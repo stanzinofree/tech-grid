@@ -4,10 +4,10 @@
     <div class="container mx-auto">
       <div class="error text-center">
         <h1 class="mb-4 h-56 headline text-smalt-blue-500">
-          404
+          404 Caspita!!!!
         </h1>
         <p class="text-6xl text-gray-700">
-          Page not found!
+          Pagina non trovata!
         </p>
 
         <g-link
@@ -16,7 +16,7 @@
           role="button"
           aria-disabled="true"
           to="/">
-          Back to home
+          Torna alla home
         </g-link>
       </div>
     </div>

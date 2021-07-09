@@ -32,7 +32,7 @@
           :key="groupName"
           class="pb-12 last:pb-0">
           <p class="text-4xl">
-            Search results for: {{ groupName }}
+            Risulatati per: {{ groupName }}
           </p>
           <div class="flex flex-wrap -m-4">
             <RecordCard
@@ -57,7 +57,7 @@
             </svg>
           </div>
           <div class="text-gray-400">
-            Type at least 3 characters to start the search...
+            Digita almeno 3 caratteri per iniziare la ricerca...
           </div>
         </div>
         <div
@@ -76,7 +76,7 @@
             </svg>
           </div>
           <div class="text-gray-400">
-            We can't find a record which matches with your given search terms.
+            Non siamo riusciti a trovare un articolo corrispondente a questa ricerca.
           </div>
         </div>
       </section>

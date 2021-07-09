@@ -25,13 +25,13 @@
           to="/articles"
           class="mr-5 hidden md:block"
           exact>
-          Articles
+          Articoli
         </g-link>
         <g-link
           to="/resources"
           class="mr-5 hidden md:block"
           exact>
-          Resources
+          Risorse
         </g-link>
         <g-link
           to="/news"

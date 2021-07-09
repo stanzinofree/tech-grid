@@ -10,7 +10,7 @@
         </p>
         <p
           class="text-lg md:text-2xl">
-          We have found {{ $page.records.belongsTo.totalCount }} records for this tag
+          Ci sono {{ $page.records.belongsTo.totalCount }} articoli con questo tag.
         </p>
       </template>
     </PageHeader>

@@ -3,11 +3,11 @@
     <PageHeader>
       <template v-slot:content>
         <p class="text-4xl md:text-6xl">
-          Resources
+          Risorse
         </p>
         <p
           class="text-lg md:text-2xl">
-          Free stuff which helps you to make the world better
+          Tools e amenità varie che ti aiuteranno a rendere il mondo un posto migliore
         </p>
       </template>
     </PageHeader>
@@ -31,7 +31,7 @@
                   <g-link
                     :to="edge.node.link"
                     class="text-smalt-blue-500 hover:text-black inline-flex items-center">
-                    Go to website
+                    Vai al sito
                     <svg
                       viewBox="0 0 20 20"
                       fill="currentColor"

@@ -6,11 +6,11 @@
       </template>
       <template v-slot:content>
         <p class="text-4xl md:text-6xl">
-          Articles
+          Articoli
         </p>
         <p
           class="text-lg md:text-2xl">
-          We have currently {{ $page.records.totalCount }} articles in our list
+          Ci sono al momento {{ $page.records.totalCount }} articoli online
         </p>
       </template>
     </PageHeader>

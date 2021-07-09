@@ -6,10 +6,10 @@
       </template>
       <template v-slot:content>
         <p class="text-4xl md:text-6xl">
-          Ready. Set. Learn.
+          Leggi, Scrivi, Prova, Sbaglia, Ricomincia
         </p>
         <p class="text-lg md:text-2xl">
-          It's never too late to learn something new!
+          Fare errori è un ciclo infinito che ci insegna a farne sempre di peggio!!!
         </p>
       </template>
     </PageHeader>

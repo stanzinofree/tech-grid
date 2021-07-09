@@ -32,14 +32,14 @@
             to="/articles"
             class="inline-block mb-5"
             exact>
-            Articles
+            Articoli
           </g-link>
         </li><li>
           <g-link
             to="/resources"
             class="inline-block mb-5"
             exact>
-            Resources
+            Risorse
           </g-link>
         </li><li>
           <g-link

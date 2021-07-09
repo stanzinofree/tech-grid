@@ -6,11 +6,11 @@
       </template>
       <template v-slot:content>
         <p class="text-4xl md:text-6xl">
-          Thank you
+          Grazie
         </p>
         <p
           class="text-lg md:text-2xl">
-          Without these awesome guys, we were not able to create our site!
+          Senza queste fonti di ispirazione il mondo e il sito non sarebbero gli stessi!!!!
         </p>
       </template>
     </PageHeader>

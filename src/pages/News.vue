@@ -10,7 +10,7 @@
         </p>
         <p
           class="text-lg md:text-2xl">
-          We have currently {{ $page.records.totalCount }} entries in our list
+          Ci sono al momento: {{ $page.records.totalCount }} news online
         </p>
       </template>
     </PageHeader>
