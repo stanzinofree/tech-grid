@@ -15,21 +15,9 @@
           <span class="ml-2 text-xl">{{ $static.metadata.siteName }}</span>
         </g-link>
         <div class="text-sm md:ml-6 md:mt-0 mt-4">
-          © {{ currentYear }} {{ $static.metadata.siteName }}
+          © {{ currentYear }} Kalamak
         </div>
         <div class="footer-links inline-flex md:ml-auto md:mt-0 mt-4 justify-center md:justify-start">
-          <g-link
-            to="/pages/sample-page-1"
-            class="mr-4">
-            Sample Page 1
-          </g-link>
-
-          <g-link
-            to="/pages/sample-page-2"
-            class="mr-4">
-            Sample Page 2
-          </g-link>
-
           <g-link to="/credits">
             Credits
           </g-link>

@@ -39,12 +39,6 @@
           exact>
           News
         </g-link>
-        <g-link
-          to="/pages/contribute"
-          class="mr-5 hidden md:block"
-          exact>
-          Contribute
-        </g-link>
 
         <a
           href="#"

@@ -48,13 +48,6 @@
             exact>
             News
           </g-link>
-        </li><li>
-          <g-link
-            to="/pages/contribute"
-            class="inline-block mb-5"
-            exact>
-            Contribute
-          </g-link>
         </li>
       </ul>
     </div>

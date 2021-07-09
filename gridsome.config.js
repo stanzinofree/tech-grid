@@ -23,7 +23,7 @@ var embedConfig = {
 };
 
 module.exports = {
-  siteName: 'Gridsome',
+  siteName: 'StanzinoTech',
   permalinks: {
     trailingSlash: false
   },
