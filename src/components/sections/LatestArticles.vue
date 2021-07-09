@@ -7,7 +7,7 @@
         </h2>
         <p
           class="text-2xl">
-          Curioso degli ultimi articoli inseriti sul nostro sito? Leggi gli ultimi articoli!
+          Leggi gli ultimi articoli pubblicati!
         </p>
       </div>
       <div class="flex flex-wrap -m-4">

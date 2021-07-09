@@ -6,7 +6,7 @@
       </template>
       <template v-slot:content>
         <p class="text-4xl md:text-6xl">
-          Studia -> Scrivi -> Testa -> Debug -> Stack Overflow -> Ricomincia da capo! 
+          Study -> Write -> Debug -> StackOverflow -> Start Again! 
         </p>
         <p class="text-lg md:text-2xl">
           Fare errori è un ciclo infinito che ci insegna a farne sempre di peggio con l'aiuto di altri che ne sanno meno di noi!!!
@@ -17,7 +17,6 @@
       <SectionLatestArticles />
     </div>
 
-    <SectionContribute />
 
     <SectionThinkDifferent />
     
@@ -35,7 +34,6 @@
 import PageHeader from '~/components/PageHeader'
 import SectionLatestArticles from '~/components/sections/LatestArticles'
 import SectionLatestNews from '~/components/sections/LatestNews'
-import SectionContribute from '~/components/sections/Contribute'
 import SectionThinkDifferent from '~/components/sections/ThinkDifferent'
 import SectionOpenSource from '~/components/sections/OpenSource'
 
@@ -47,7 +45,6 @@ export default {
     PageHeader,
     SectionLatestArticles,
     SectionLatestNews,
-    SectionContribute,
     SectionThinkDifferent,
     SectionOpenSource
   }
