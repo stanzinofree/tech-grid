@@ -5,8 +5,8 @@
         <g-image src="~/assets/images/marvin-meyer-SYTO3xs06fU-unsplash.jpg" />
       </template>
       <template v-slot:content>
-        <p class="text-4xl md:text-6xl">
-          Write -> Debug -> StackOverflow -> Start Again! 
+        <p class="text-3xl md:text-4xl">
+          Write->Debug->StackOverflow->Start Again! 
         </p>
         <p class="text-lg md:text-2xl">
           Fare errori è un ciclo infinito che ci insegna a farne sempre di peggio con l'aiuto di altri che ne sanno meno di noi!!!
