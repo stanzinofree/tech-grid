@@ -20,7 +20,7 @@
               <g-link
                 :to="record.path"
                 class="text-smalt-blue-500 hover:text-black inline-flex items-center">
-                Continue reading
+                Continua a leggere
                 <svg
                   class="w-4 h-4 ml-2"
                   viewBox="0 0 24 24"

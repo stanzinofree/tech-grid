@@ -6,10 +6,10 @@
       </template>
       <template v-slot:content>
         <p class="text-4xl md:text-6xl">
-          Leggi, Scrivi, Prova, Sbaglia, Ricomincia
+          Studia -> Scrivi -> Testa -> Debug -> Stack Overflow -> Ricomincia da capo! 
         </p>
         <p class="text-lg md:text-2xl">
-          Fare errori è un ciclo infinito che ci insegna a farne sempre di peggio!!!
+          Fare errori è un ciclo infinito che ci insegna a farne sempre di peggio con l'aiuto di altri che ne sanno meno di noi!!!
         </p>
       </template>
     </PageHeader>
@@ -41,7 +41,7 @@ import SectionOpenSource from '~/components/sections/OpenSource'
 
 export default {
   metaInfo: {
-    title: 'Learn something new'
+    title: 'StanzinoTech'
   },
   components: {
     PageHeader,

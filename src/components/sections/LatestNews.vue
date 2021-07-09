@@ -3,7 +3,7 @@
     <div class="container px-5 py-12 mx-auto">
       <div class="text-center pb-12">
         <h2 class="text-4xl">
-          Latest News
+          Ultime News
         </h2>
       </div>
       <div class="flex flex-wrap -m-4">

@@ -13,18 +13,18 @@
         <div
           class="text-xl font-medium title-font w-full md:w-1/2 py-12 md:py-0">
           <h3 class="text-4xl lg:text-6xl text-center">
-            Th!nk different
+            Ti senti Bloccato? Th!nk different!
           </h3>
           <p class="px-4 text-xl lg:text-2xl">
-            Sometimes you need a different perspective to achieve your goal.
+            Spesso le soluzioni ai problemi arrivano solamente quando si riesce a cambiare punto di vista.
             <br>
-            With our articles, we want to help you to see your challenges from a different perspective and to solve them faster.
+            Con i miei articoli cerco di fornire spunti di riflessione sui problemi e punti di vista differenti per accelerare la risoluzioni di quelli che ho già affrontato io.
           </p>
           <p class="text-center mt-8">
             <g-link
               to="/articles"
               class="bg-smalt-blue-500 rounded p-4 text-white hover:bg-smalt-blue-600 transition-colors duration-100">
-              Browse all articles
+              Sfoglia tutti gli articoli
             </g-link>
           </p>
         </div>

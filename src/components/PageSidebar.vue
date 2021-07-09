@@ -5,7 +5,7 @@
       v-if="subtitles.length > 0"
       class="toc hidden lg:block">
       <h3 class="border-b-4 pb-3 mb-3 border-gray-200 text-xl">
-        On this page
+        In questa pagina
       </h3>
       <ul class="pl-0">
         <li
@@ -45,7 +45,7 @@
       class="text-right mb-12">
       <FilterDropdown v-if="subtitles.length > 0">
         <template v-slot:title>
-          On this site
+          Im questa pagina
         </template>
         <template v-slot:options>
           <ul class="p-4">

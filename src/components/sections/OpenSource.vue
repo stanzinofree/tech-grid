@@ -4,7 +4,7 @@
       <div class="flex flex-wrap items-center mx-auto text-center">
         <div
           class="text-6xl font-medium title-font w-full">
-          We
+          I
           <svg
             viewBox="0 0 20 20"
             fill="currentColor"
@@ -17,7 +17,7 @@
           Open Source
         </div>
         <div class="w-full text-2xl">
-          We're using only open source components!
+          Usiamo solo componenti Open Source!!!!!
         </div>
       </div>
       <div class="flex flex-wrap mt-6">

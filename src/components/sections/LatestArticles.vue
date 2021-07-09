@@ -3,11 +3,11 @@
     <div class="container px-5 py-12 mx-auto">
       <div class="text-center pb-12 ">
         <h2 class="text-4xl">
-          Latest Articles
+          Ultimi Articoli
         </h2>
         <p
           class="text-2xl">
-          Curious what new articles are on our website? Check out our latest articles!
+          Curioso degli ultimi articoli inseriti sul nostro sito? Leggi gli ultimi articoli!
         </p>
       </div>
       <div class="flex flex-wrap -m-4">

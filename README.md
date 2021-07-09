@@ -16,3 +16,4 @@ Stanzino Tech
 ## About the blog
 
 Gridsome e Tailwind per la nuova interfaccia
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3c7875db-1564-49be-ab9c-6abc5657f2ee/deploy-status)](https://app.netlify.com/sites/wonderful-cori-18da56/deploys)

@@ -15,7 +15,7 @@
       </div>
       <div>
         <h3 class="border-b-4 pb-3 mb-3 border-gray-200 text-xl">
-          Filter by type
+          Filtra per tipo
         </h3>
         <ul class="pl-0">
           <li
@@ -33,7 +33,7 @@
 
       <div>
         <h3 class="border-b-4 pb-3 mt-6 border-gray-200 text-xl">
-          Filter by tag
+          Filtra per tag
         </h3>
         <ul class="pl-0">
           <li
@@ -58,14 +58,14 @@
             <g-link
               to="/resources"
               class="inline-flex justify-center w-full rounded-md border border-gray-300 px-4 py-2 bg-white text-sm leading-5 font-medium text-black hover:text-white hover:bg-smalt-blue-500 focus:outline-none transition ease-in-out duration-150">
-              Clear
+              Cancella
             </g-link>
           </span>
         </div>
       </div>
       <FilterDropdown>
         <template v-slot:title>
-          Filter by type
+          Filtra per tipo
         </template>
         <template v-slot:options>
           <g-link
@@ -79,7 +79,7 @@
       </FilterDropdown>
       <FilterDropdown>
         <template v-slot:title>
-          Filter by tag
+          Filtra per tag
         </template>
         <template v-slot:options>
           <g-link
