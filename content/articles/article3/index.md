@@ -46,7 +46,7 @@ const children = 'Piacere JSX'
 const className = 'propClass'
 ````
 
-Come abbiamo visto nell'[articolo precedente](../article2/index.md) andiamo a creare il nostro oggetto con *children* e *className* e poi chiamiamo il metodo **render** di ReactDOM
+Come abbiamo visto nell'[articolo precedente](https://stanzinofree.tech/articles/starting-learn-react) andiamo a creare il nostro oggetto con *children* e *className* e poi chiamiamo il metodo **render** di ReactDOM
 
 ````js
 const props = {children, className}
