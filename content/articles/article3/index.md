@@ -66,10 +66,7 @@ Il risultato è il seguente:
 
 ![fastify_code](/FD65E903-1589-42A6-9BD6-669CA4235E38.jpg)
 
-Questo era solo un esercizio di stile poichè andrò ad usare sempre JSX che si occuperà lui di fare il createElement sotto il cofano.
-
 La prossima volta andremo a creare un componente Custom
-
 
 *Stay Tuned*
 Alex
