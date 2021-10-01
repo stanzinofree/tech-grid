@@ -1,30 +1,35 @@
 ---
-title: Facciamo la conoscenza di JSX
+title: Il nostro primo Custom Component
 tags: react, js, full-stack, jsx, babel
-excerpt: Ora che abbiamo visto come usare react impariamo a conoscere la sintassi JSX
-createdAt: 2021-07-13 19:08:00
+excerpt: Andiamo a scrivere il nostro primo Component
+createdAt: 2021-07-14 10:35:00
 ---
 
-## Babel Standalone
+## Custom Component
 
-Per usare **JSX** dobbiamo ricorrere ad un Transpiler, per chi leggendo il termine non sapesse cosa vuol dire può approfondire l'argomento sulla documentazione ufficiale di [Babel](https://babeljs.io/docs/en/).
-Comunque il nostro codice finale sarà:
+Fino ad ora abbiamo giocato con l'Injection di codice Html, ma facciamo un passo avanti verso al potenza di React, creiamo un componente che possiamo utilizzare quante volte vogliamo che ci semplifichi la vita non dovendo riscrivere sempre le stesse cose
+Il codice finale sarà:
 
 ````html
 <body>
   <div id="root"></div>
   <script src="https://unpkg.com/react@16.12.0/umd/react.development.js"></script>
   <script src="https://unpkg.com/react-dom@16.12.0/umd/react-dom.development.js"></script>
-  <script src="https://unpkg.com/@babel/standalone@7.14.7/babel.js"></script>
+  <script src="https://unpkg.com/@babel/standalone@7.8.3/babel.js"></script>
   <script type="text/babel">
-    const rootElement = document.getElementById('root')
-    const children = 'Piacere JSX'
-    const className = 'propClass'
-    const props = {children, className}
-    const element = <div {...props} />
-    ReactDOM.render(element, rootElement)
+    const Banner = (props) => <div className="banner">{props.children}</div>
+    const element = (
+      <div className="container">
+        <Message>Hello World</Message>
+        <Message>Goodbye World
+          <span>TEXT</span></Message>
+      </div>
+    )
+
+    ReactDOM.render(element, document.getElementById('root'))
   </script>
 </body>
+
 ````
 
 Rispetto a prima andiamo ad aggiungere la nostra libreria di Transpiling, quando andremo ad usare l'installazione vera il tutto sarà più veloce perchè invece di fare il transpiling a runtime nel browser verrà

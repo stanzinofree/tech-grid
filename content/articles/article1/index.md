@@ -2,7 +2,7 @@
 title: Basic Api Server in Node
 tags: nodejs, js, fastify, api
 excerpt: Un webserver leggero per prototipare API in maniera istantanea
-createdAt: 2021-09-07 16:33:00
+createdAt: 2021-07-09 16:33:00
 ---
 
 ## Fastify

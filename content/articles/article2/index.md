@@ -2,7 +2,7 @@
 title: Starting Learn React
 tags: react, js, full-stack
 excerpt: Iniziamo il viaggio alla scoperta di React in diverse lezioni
-createdAt: 2021-09-13 15:53:34
+createdAt: 2021-07-13 15:53:34
 ---
 
 ## NPX

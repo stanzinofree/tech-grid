@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: stanzinofree.tech
+Token: 48db10bbf56e6c4f8e4ec9f782fdb61e32892fcca22cf9d386fa9439933d70d3
